@@ -19,3 +19,5 @@ Settings for the Amd-AI9-HX-370
  ```
 
  In this case I changed *Executable"="_radeonsoftware.exe* to have an underscore in the *radeonsoftware.exe*. This prevents the application from running and is easy to restore if needed.
+
+ This may work on other Amd processors; the Amd-AI9-HX-370 is the only Amd cpu/gpu that I own.
