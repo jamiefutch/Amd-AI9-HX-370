@@ -1,6 +1,6 @@
-# LLAMA.CPP
+# llama.cpp
 
-##Compiling LLAMA.CPP on windows
+##Compiling llama.cpp on windows
 
 Clone the llama.cpp repo
 ```
